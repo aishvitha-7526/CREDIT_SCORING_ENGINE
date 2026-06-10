@@ -81,7 +81,3 @@ The objective of this project is to demonstrate the basic concept of credit eval
 - Loan Approval Prediction
 - Credit History Management
 - Machine Learning-Based Credit Analysis
-
-## Author
-
-Your Name
