@@ -69,15 +69,4 @@ javac CreditScoringEngine.java
 ```bash
 java CreditScoringEngine
 ```
-
-## Objective
-
-The objective of this project is to demonstrate the basic concept of credit evaluation used by banks and financial institutions. It helps users understand how financial information can be analyzed to determine creditworthiness.
-
-## Future Enhancements
-
-- Graphical User Interface (GUI)
-- Database Integration
-- Loan Approval Prediction
-- Credit History Management
-- Machine Learning-Based Credit Analysis
+<img width="560" height="361" alt="image" src="https://github.com/user-attachments/assets/d08fa66a-662d-49f8-905d-9dcde630b545" />
